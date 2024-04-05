@@ -1,16 +1,11 @@
 .page.theme_dark {
-    --bg-color: #000028;
-    --text-color: #f1b2ce;
-    --title-color: #db00ff;
-    --header-text-color: #000028;
-    --font-size: 18px;
-    --accent-color: #ff0070;
-    --menu-color: #ff0070;
-    --title-shadow: #ff0070;
-    --ind: clamp(10px, 2.6041vw, 20px); /*отступ*/
-    --visibility: visible;
-    --background-image: image-set(
-      url(../images/cover-image-dark.png) 1x,
-      url(../images/cover-image.png) 2x
-    );
-  }
+  --accent-color: #ff0070;
+  --hover-color: rgba(255, 0, 112, 0.40);
+  --titles-color: #DB00FF;
+  --rec-color: #ff0070;
+  --main-text-color: #ff0070;
+  --bg-image: url('../images/cover-image-dark.png');
+  --bg-color: #000028;
+  --text-color: #F1B2CE;
+  --font-size: clamp(7.25rem, 7.0115rem + 1.0178vw, 7.5rem);
+}
