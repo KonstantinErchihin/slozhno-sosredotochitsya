@@ -116,6 +116,7 @@
 
 .title-decor {
   background-color: var(--accent-color);
+  color: var(--heading-color);
 }
 
 .main {

@@ -8,4 +8,5 @@
   --bg-color: #000028;
   --text-color: #F1B2CE;
   --font-size: clamp(7.25rem, 7.0115rem + 1.0178vw, 7.5rem);
+  --heading-color: #000028;
 }
